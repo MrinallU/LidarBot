@@ -1,0 +1,28 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/daniel/humble_Spring2024/install/watts_pid_wall_follow/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/watts_lidar/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/watts_joystick/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/pham_pkg/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_srv_client/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_parameters/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_min_pub_sub/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_interfaces/local/lib/python3.10/dist-packages",
+        "/home/daniel/humble_Spring2024/install/av_custom_msg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/daniel/humble_Spring2024/install/watts_pid_wall_follow/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/watts_lidar/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/watts_joystick/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/pham_pkg/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_srv_client/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_parameters/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_min_pub_sub/lib/python3.10/site-packages",
+        "/home/daniel/humble_Spring2024/install/av_interfaces/local/lib/python3.10/dist-packages",
+        "/home/daniel/humble_Spring2024/install/av_custom_msg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
