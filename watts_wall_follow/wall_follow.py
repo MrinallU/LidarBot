@@ -1,6 +1,5 @@
 # Wall following controller that maintains a distance of 1 meter from the wall on the right side of the vehicle
 # Is enabled by pressing the 'A' button on the Xbox controller
-# Daniel Pham, 03/08/2024
 
 import rclpy
 import math
